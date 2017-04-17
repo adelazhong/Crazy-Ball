@@ -1,0 +1,19 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M               (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\文檔\zuo\資工\3D_final2\Crazy_Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.288 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
